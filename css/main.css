@@ -43,7 +43,7 @@ header nav a:hover {
 /* Filme principal */
 .filme-principal {
     font-size: 16px;
-    background: linear-gradient(rgba(0,0,0,.50),rgba(0,0,0,.50)100%), url('/img/wKHImjeHwVIiWJWFIJtWUKkA5QJ.jpg');
+    background: linear-gradient(rgba(0,0,0,.50),rgba(0,0,0,.50)100%), url('/img/capabreakingbad.jpg');
     height: 620px;
     background-size: cover;
     display: flex;
