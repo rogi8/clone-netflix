@@ -1,2 +1,2 @@
 # clone-netflix
-Recriando o site da Netflix
+Recriando a parte inicial do site da Netflix 😄
